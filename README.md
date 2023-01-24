@@ -8,8 +8,8 @@ Ana Gonzalez
 
 In the folder *Mars_Analysis* are the completed challenge files.
 
-* *part_1_mars_news_final.ipynb* - my jupyter notebook the scraped article titles and preview text.
-* *part_2_mars_weather_final.ipynb* - my jupyter notebook the scraped weather table, answers to questions, and output graphs
+* *part_1_mars_news.ipynb* - my jupyter notebook the scraped article titles and preview text.
+* *part_2_mars_weather.ipynb* - my jupyter notebook the scraped weather table, answers to questions, and output graphs
 * *Output* folder with image and .csv files
     * mars_temp_df.csv
     * martian_avg_press.png
